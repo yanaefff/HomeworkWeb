@@ -1,0 +1,1 @@
+{"uuid":"b8ad78a3-e89b-4edd-899b-de573c958577","name":"addWishList()","children":["3ca33b88-d0ae-435b-91e5-78f012563f34"],"befores":[{"name":"initMainPage","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1678097540680,"stop":1678097542672}],"afters":[],"start":1678097540647,"stop":1678097571655}
